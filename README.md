@@ -1,18 +1,18 @@
 <h1 align="center">Olá 👋, sou Keuvyn Teixeira</h1>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibiri&weight=500&size=30&pause=1000&color=005DD4&center=true&width=435&lines=Desenvolvedor+Full+Stack;React+%26+Next.js;Construindo+Solu%C3%A7%C3%B5es" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibiri&weight=500&size=30&pause=1000&color=005DD4&center=true&width=435&lines=Desenvolvedor+Full+Stack;React+%26+Next.js;Construindo+Solu%C3%A7%C3%B5es" alt="Meu GitHub" /></a>
 </div>
 
 <img align= "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left">
-   <a href="https://github.com/keuvyndev" target="_blank"><img src="https://komarev.com/ghpvc/?username=keuvyndev&label=Visitantes&color=005dd4&style=flat" alt="keuvyndev" /></a> <a href="https://github.com/keuvyndev/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Clique_aqui-005dd4" alt="keuvyndev" /></a>
+   <a href="https://github.com/keuvyndev" target="_blank"><img src="https://komarev.com/ghpvc/?username=keuvyndev&label=Visitantes&color=005dd4&style=flat" alt="keuvyndev" /></a> <a href="https://github.com/keuvyndev/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Clique_aqui-005dd4" alt="Meu Portfolio" /></a>
 </p>
 
 - 🚀 Atualmente construindo projetos impactantes com a **Stack de JavaScript.**
-- 🌱 Expandindo meu conjunto de habilidades com **TypeScript**
-- 💼 Atuando como <b>Desenvolvedor Pleno e Líder de Equipe</b> na <a href="https://plano.consulting/">@PlanoConsultoriaEmpresarial</a>.
+- 🌱 Expandindo meu conjunto de habilidades com **TypeScript.**
+- 💼 Atuando como <b>Desenvolvedor Pleno e Líder de Equipe</b> na <a href="https://plano.consulting/" alt="Plano Consultoria">@PlanoConsultoriaEmpresarial</a>.
 <br>
 <h3 align="left" style="font-family: 'Poppins', sans-serif;" >📫 Como me encontrar:</h3>
 <p align="left">
@@ -24,16 +24,16 @@
 
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">&nbsp;👨🏻‍💻 Sobre Mim</h2>
 
-Tive meu primeiro contato com linhas de código aos meus 15 anos de idade, quando queria criar uma versão alternativa de um jogo que amava, na época chamado de Tales of Pirates. Depois de muito empenho e pesquisa eu consegui, finalmente colocá-lo online. Foi neste momento que tive aquela sensação mágica que me lembro até hoje. Percebi que podia customizá-lo da maneira que eu quisesse apenas escrevendo linhas de código e isto me fascinava profundamente. Desde então, decidi que era isto que queria fazer da minha vida <b>eu queria ser um programador.</b>
+<p style="font-family: 'Poppins'; text-align: 'justify'">Tive meu primeiro contato com código aos 15 anos, quando queria criar uma versão alternativa de um jogo que eu adorava, chamado *Tales of Pirates*. Após muito empenho e pesquisa, consegui colocá-lo online. Foi nesse momento que experimentei uma sensação mágica que até hoje me marca. Percebi que poderia modificá-lo da maneira que quisesse, apenas escrevendo linhas de código, e isso me cativou profundamente. Desde então, entendi que a programação era o que eu queria fazer da minha vida. <b>Decidi que queria ser programador.</b></p>
 
-- 💙 &nbsp;Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizando a stack JavaScript (Node, React) para desenvolver.
-- 🎮 &nbsp;Sou apaixonado por games de diversos estilos, e costumo jogar com amigos no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
+<p style="font-family: 'Poppins'"> - 💙 &nbsp;Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizando a stack JavaScript (Node, React) para desenvolver.</p>
+<p style="font-family: 'Poppins'"> - 🎮 &nbsp;Sou apaixonado por games de diversos estilos, e costumo jogar com amigos no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!</p>
 
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">🛠 &nbsp;<b>Tech Stack</b></h2>
 
 <h4 align="left" style="font-family: 'Poppins', sans-serif;">💻 &nbsp;Front-end:</h4>
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
 
 <h4 align="left" style="font-family: 'Poppins', sans-serif;">⚙️ &nbsp;Back-end e banco de dados:</h4>
 
@@ -45,12 +45,39 @@ Tive meu primeiro contato com linhas de código aos meus 15 anos de idade, quand
 
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">🌐 &nbsp;<b>Projetos Mais Relevantes</b></h2>
 
-<p align="left">
-<a href="https://barbershop-app-gamma.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-FSW_BARBER-%23151619?style=for-the-badge&logo=square&logoColor=%238061FF" style="border-radius: 30px"></a> <a href="https://finance-ai-gamma-ebon.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-OPEN_FINANCE_AI-%23151619?style=for-the-badge&logo=circle&logoColor=%2356b22e" style="border-radius: 30px"></a>
-</p>
+<div align="left" style="margin-bottom: -5px">
+   <div style="align-items: center; margin-bottom: 10px;">
+      <a href="https://barbershop-app-gamma.vercel.app/" target="_blank" style="text-decoration: none;">
+         <img src="https://img.shields.io/badge/-FSW_BARBER-%23343434?style=for-the-badge&logo=square&logoColor=%238061FF" 
+              alt="FSW_BARBER" style="border-radius: 30px;" />
+      </a>
+      <div>
+         <b>Resumo:</b> Aplicativo web com interface para dispositivos móveis, voltado para o gerenciamento de barbearias. Inclui funcionalidades de agendamento de serviços e visualização de horários. Desenvolvido com <b>Next.js</b>, <b>Tailwind CSS</b> e <b>Prisma</b>.
+      </div>
+   </div>
+   
+   <div style="align-items: center;">
+      <a href="https://finance-ai-gamma-ebon.vercel.app/" target="_blank" style="text-decoration: none;">
+         <img src="https://img.shields.io/badge/-OPEN_FINANCE_AI-%23343434?style=for-the-badge&logo=circle&logoColor=%2356b22e" 
+              alt="OPEN_FINANCE_AI" style="border-radius: 30px;">
+      </a>
+      <div>
+         <b>Resumo:</b> Aplicação de plataforma SaaS para gestão financeira pessoal que utiliza inteligência artificial para auxiliar no controle financeiro. Criada com <b>React</b> e <b>Tailwind CSS</b>.
+      </div>
+   </div>
+</div>
 
-<div align="left" width="50">
-<h2 align="left" style="font-family: 'Poppins', sans-serif;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats⚡ </b>
-</h2>
+<div align="left" style="display: flex; align-items: center;">
+   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="margin-top: 1px">
+   <h2 style="font-family: 'Poppins', sans-serif; align-items: center;">
+      <b> Github Stats⚡ </b>
+   </h2>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
 
 ![Keuvyn Teixeira GitHub Stats](https://github-readme-stats.vercel.app/api?username=keuvyndev&show_icons=true&theme=github_dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=keuvyndev&theme=github-dark-blue)](https://git.io/streak-stats)
+
+</div>
