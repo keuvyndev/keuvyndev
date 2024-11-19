@@ -10,8 +10,8 @@
 
 - 🚀 Atualmente construindo projetos impactantes com a **Stack de JavaScript.**
 - 🌱 Expandindo meu conjunto de habilidades com **TypeScript**
-- 💼 Atuando como <b>Desenvolvedor Pleno e Líder de Equipe</b> na <a href="https://plano.consulting/">@PlanoConsultoria</a>.
-
+- 💼 Atuando como <b>Desenvolvedor Pleno e Líder de Equipe</b> na <a href="https://plano.consulting/">@PlanoConsultoriaEmpresarial</a>.
+<br>
 <h3 align="left" style="font-family: 'Poppins', sans-serif;" >📫 Como me encontrar:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mdrehan18/" target="blank"><img align="center" src="https://img.shields.io/badge/Keuvyn%20Teixeira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
@@ -36,7 +36,7 @@ Tive meu primeiro contato com linhas de código aos meus 15 anos de idade, quand
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL) ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 
-<h4 align="left" style="font-family: 'Poppins', sans-serif;">🧰 &nbsp;Ferramentas e serviços:</h4>
+<h4 align="left" style="font-family: 'Poppins', sans-serif;">🧰 &nbsp;Ferramentas e serviços (que uso ou já usei):</h4>
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS) ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=GIT) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub) ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=ESLint) ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=Prettier) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker) ![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=Clerk) ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=Stripe) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel) ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=OpenAI)
 
