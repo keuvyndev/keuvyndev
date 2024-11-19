@@ -24,7 +24,7 @@
 
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">&nbsp;👨🏻‍💻 Sobre Mim</h2>
 
-<p style="font-family: 'Poppins'; text-align: 'justify'">Tive meu primeiro contato com código aos 15 anos, quando queria criar uma versão alternativa de um jogo que eu adorava, chamado *Tales of Pirates*. Após muito empenho e pesquisa, consegui colocá-lo online. Foi nesse momento que experimentei uma sensação mágica que até hoje me marca. Percebi que poderia modificá-lo da maneira que quisesse, apenas escrevendo linhas de código, e isso me cativou profundamente. Desde então, entendi que a programação era o que eu queria fazer da minha vida. <b>Decidi que queria ser programador.</b></p>
+<p style="font-family: 'Poppins'; text-align: 'justify'">Tive meu primeiro contato com código aos 15 anos, quando queria criar uma versão alternativa de um jogo que eu adorava, chamado <b>Tales of Pirates</b>. Após muito empenho e pesquisa, consegui colocá-lo online. Foi nesse momento que experimentei uma sensação mágica que até hoje me marca. Percebi que poderia modificá-lo da maneira que quisesse, apenas escrevendo linhas de código, e isso me cativou profundamente. Desde então, entendi que a programação era o que eu queria fazer da minha vida. <b>Decidi que queria ser programador.</b></p>
 
 <p style="font-family: 'Poppins'"> - 💙 &nbsp;Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizando a stack JavaScript (Node, React) para desenvolver.</p>
 <p style="font-family: 'Poppins'"> - 🎮 &nbsp;Sou apaixonado por games de diversos estilos, e costumo jogar com amigos no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!</p>
@@ -45,8 +45,8 @@
 
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">🌐 &nbsp;<b>Projetos Mais Relevantes</b></h2>
 
-<div align="left" style="margin-bottom: -5px">
-   <div style="align-items: center; margin-bottom: 10px;">
+<div align="left">
+   <div style="align-items: center; ">
       <a href="https://barbershop-app-gamma.vercel.app/" target="_blank" style="text-decoration: none;">
          <img src="https://img.shields.io/badge/-FSW_BARBER-%23343434?style=for-the-badge&logo=square&logoColor=%238061FF" 
               alt="FSW_BARBER" style="border-radius: 30px;" />
