@@ -6,7 +6,8 @@
 
 <img align= "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keuvyndev&label=Visitantes&color=005dd4&style=flat" alt="keuvyndev" /> </p>
+<p align="left"> <a href="https://github.com/keuvyndev"> <img src="https://komarev.com/ghpvc/?username=keuvyndev&label=Visitantes&color=005dd4&style=flat" alt="keuvyndev" /> </a> 
+<a href="https://github.com/keuvyndev/Portfolio"> <img src="https://img.shields.io/badge/Portfolio-Clique_aqui-005dd4" alt="keuvyndev" /></a></p>
 
 - 🚀 Atualmente construindo projetos impactantes com a **Stack de JavaScript.**
 - 🌱 Expandindo meu conjunto de habilidades com **TypeScript**
