@@ -7,10 +7,12 @@
 <img align= "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=keuvyndev&label=Visitantes&color=005dd4&style=flat" alt="keuvyndev" />
-  <a href="https://github.com/keuvyndev/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Clique_aqui-005dd4" alt="keuvyndev" />
-  </a>
+   <a href="https://barbershop-app-gamma.vercel.app/" target="_blank" style="text-decoration: none;">
+      <img src="https://komarev.com/ghpvc/?username=keuvyndev&label=Visitantes&color=005dd4&style=flat" alt="keuvyndev" />
+   </a>
+   <a href="https://github.com/keuvyndev/Portfolio" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Portfolio-Clique_aqui-005dd4" alt="keuvyndev" />
+   </a>
 </p>
 
 - 🚀 Atualmente construindo projetos impactantes com a **Stack de JavaScript.**
@@ -48,9 +50,11 @@ Tive meu primeiro contato com linhas de código aos meus 15 anos de idade, quand
 
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">🌐 &nbsp;<b>Projetos Mais Relevantes</b></h2>
 
-<a href="https://barbershop-app-gamma.vercel.app/" target="_blank">
+<a href="https://barbershop-app-gamma.vercel.app/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-FSW_BARBER-%23151619?style=for-the-badge&logo=square&logoColor=%238061FF" style="border-radius: 30px">
-</a> &nbsp; <a href="https://finance-ai-gamma-ebon.vercel.app/" target="_blank">
+</a>
+&nbsp;
+<a href="https://finance-ai-gamma-ebon.vercel.app/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-OPEN_FINANCE_AI-%23151619?style=for-the-badge&logo=circle&logoColor=%2356b22e" style="border-radius: 30px">
 </a>
 
