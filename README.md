@@ -27,9 +27,9 @@
 
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">&nbsp;👨🏻‍💻 Sobre Mim</h2>
 
-Tive meu primeiro contato com linhas de código aos meus 15 anos de idade, quando queria criar uma versão alternativa de um jogo que amava na época que se chamava Tales of Pirates. Depois de muito empenho e pesquisa eu consegui, finalmente colocá-lo online. Foi neste momento que tive aquela sensação mágica que me lembro até hoje. Percebi que podia customizá-lo da maneira que eu quisesse apenas escrevendo linhas de código e isto me fascinava profundamente. Desde então, decidi que era isto que queria fazer da minha vida <b>eu queria ser um programador.</b>
+Tive meu primeiro contato com linhas de código aos meus 15 anos de idade, quando queria criar uma versão alternativa de um jogo que amava, na época chamado de Tales of Pirates. Depois de muito empenho e pesquisa eu consegui, finalmente colocá-lo online. Foi neste momento que tive aquela sensação mágica que me lembro até hoje. Percebi que podia customizá-lo da maneira que eu quisesse apenas escrevendo linhas de código e isto me fascinava profundamente. Desde então, decidi que era isto que queria fazer da minha vida <b>eu queria ser um programador.</b>
 
-- ❤ &nbsp;Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizando a stack JavaScript (Node, React) para desenvolver.
+- 💙 &nbsp;Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizando a stack JavaScript (Node, React) para desenvolver.
 - 🎮 &nbsp;Sou apaixonado por games de diversos estilos, e costumo jogar com amigos no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
 
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">🛠 &nbsp;<b>Tech Stack</b></h2>
@@ -45,6 +45,14 @@ Tive meu primeiro contato com linhas de código aos meus 15 anos de idade, quand
 <h4 align="left" style="font-family: 'Poppins', sans-serif;">🧰 &nbsp;Ferramentas e serviços (que uso ou já usei):</h4>
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS) ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=GIT) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub) ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=ESLint) ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=Prettier) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker) ![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=Clerk) ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=Stripe) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel) ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=OpenAI)
+
+<h2 align="left" style="font-family: 'Poppins', sans-serif;">🌐 &nbsp;<b>Projetos Mais Relevantes</b></h2>
+
+<a href="https://barbershop-app-gamma.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-FSW_BARBER-%23151619?style=for-the-badge&logo=square&logoColor=%238061FF" style="border-radius: 30px">
+</a> &nbsp; <a href="https://finance-ai-gamma-ebon.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-OPEN_FINANCE_AI-%23151619?style=for-the-badge&logo=circle&logoColor=%2356b22e" style="border-radius: 30px">
+</a>
 
 <div align="left" width="50">
 <h2 align="left" style="font-family: 'Poppins', sans-serif;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats⚡ </b>
