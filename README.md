@@ -46,35 +46,25 @@
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">🌐 &nbsp;<b>Projetos Mais Relevantes</b></h2>
 
 <div align="left">
-   <div style="align-items: center; ">
       <a href="https://barbershop-app-gamma.vercel.app/" target="_blank" style="text-decoration: none;">
          <img src="https://img.shields.io/badge/-FSW_BARBER-%23343434?style=for-the-badge&logo=square&logoColor=%238061FF" 
               alt="FSW_BARBER" style="border-radius: 30px;" />
-      </a>
-      <div>
-         <b>Resumo:</b> Aplicativo web com interface para dispositivos móveis, voltado para o gerenciamento de barbearias. Inclui funcionalidades de agendamento de serviços e visualização de horários. Desenvolvido com <b>Next.js</b>, <b>Tailwind CSS</b> e <b>Prisma</b>.
-      </div>
-   </div>
-   
-   <div style="align-items: center;">
-      <a href="https://finance-ai-gamma-ebon.vercel.app/" target="_blank" style="text-decoration: none;">
-         <img src="https://img.shields.io/badge/-OPEN_FINANCE_AI-%23343434?style=for-the-badge&logo=circle&logoColor=%2356b22e" 
-              alt="OPEN_FINANCE_AI" style="border-radius: 30px;">
-      </a>
-      <div>
-         <b>Resumo:</b> Aplicação de plataforma SaaS para gestão financeira pessoal que utiliza inteligência artificial para auxiliar no controle financeiro. Criada com <b>React</b> e <b>Tailwind CSS</b>.
-      </div>
-   </div>
+      </a><br>
+      <span ><b>Resumo:</b> Aplicativo web com interface para dispositivos móveis, voltado para o gerenciamento de barbearias. Inclui funcionalidades de agendamento de serviços e visualização de horários. Desenvolvido com <b>Next.js</b>, <b>Tailwind CSS</b> e <b>Prisma</b>.
+      </span>
+      <br><br>
+         <a href="https://finance-ai-gamma-ebon.vercel.app/" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/-OPEN_FINANCE_AI-%23343434?style=for-the-badge&logo=circle&logoColor=%2356b22e" 
+            alt="OPEN_FINANCE_AI" style="border-radius: 100px;">
+      </a><br>
+      <span><b>Resumo:</b> Aplicação de plataforma SaaS para gestão financeira pessoal que utiliza inteligência artificial para auxiliar no controle financeiro. Criada com <b>React</b> e <b>Tailwind CSS</b>.</span>
 </div>
 
-<div align="left" style="display: flex; align-items: center;">
-   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="margin-top: 1px">
+<div align="left">
    <h2 style="font-family: 'Poppins', sans-serif; align-items: center;">
-      <b> Github Stats⚡ </b>
+      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Github Stats⚡ </b>
    </h2>
 </div>
-
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
 
 ![Keuvyn Teixeira GitHub Stats](https://github-readme-stats.vercel.app/api?username=keuvyndev&show_icons=true&theme=github_dark)
 
