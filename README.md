@@ -53,4 +53,4 @@ Tive meu primeiro contato com linhas de código aos meus 15 anos de idade, quand
 <h2 align="left" style="font-family: 'Poppins', sans-serif;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats⚡ </b>
 </h2>
 
-![Keuvyn Teixeira GitHub Stats](https://github-readme-stats.vercel.app/api?username=keuvyndev&show_icons=true&theme=005dd4)
+![Keuvyn Teixeira GitHub Stats](https://github-readme-stats.vercel.app/api?username=keuvyndev&show_icons=true&theme=github_dark)
