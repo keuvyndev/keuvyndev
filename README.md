@@ -48,12 +48,9 @@ Tive meu primeiro contato com linhas de código aos meus 15 anos de idade, quand
 
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">🌐 &nbsp;<b>Projetos Mais Relevantes</b></h2>
 
-<a href="https://barbershop-app-gamma.vercel.app/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-FSW_BARBER-%23151619?style=for-the-badge&logo=square&logoColor=%238061FF" style="border-radius: 30px">
-</a>
-<a href="https://finance-ai-gamma-ebon.vercel.app/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-OPEN_FINANCE_AI-%23151619?style=for-the-badge&logo=circle&logoColor=%2356b22e" style="border-radius: 30px">
-</a>
+<p align="left">
+<a href="https://barbershop-app-gamma.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-FSW_BARBER-%23151619?style=for-the-badge&logo=square&logoColor=%238061FF" style="border-radius: 30px"></a> <a href="https://finance-ai-gamma-ebon.vercel.app/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-OPEN_FINANCE_AI-%23151619?style=for-the-badge&logo=circle&logoColor=%2356b22e" style="border-radius: 30px"></a>
+</p>
 
 <div align="left" width="50">
 <h2 align="left" style="font-family: 'Poppins', sans-serif;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats⚡ </b>
