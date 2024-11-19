@@ -48,14 +48,14 @@
 <div align="left">
       <a href="https://barbershop-app-gamma.vercel.app/" target="_blank" style="text-decoration: none;">
          <img src="https://img.shields.io/badge/-FSW_BARBER-%23343434?style=for-the-badge&logo=square&logoColor=%238061FF" 
-              alt="FSW_BARBER" style="border-radius: 30px;" />
+              alt="FSW_BARBER" style="border-radius: 30px; !important;" />
       </a><br>
       <span ><b>Resumo:</b> Aplicativo web com interface para dispositivos móveis, voltado para o gerenciamento de barbearias. Inclui funcionalidades de agendamento de serviços e visualização de horários. Desenvolvido com <b>Next.js</b>, <b>Tailwind CSS</b> e <b>Prisma</b>.
       </span>
       <br><br>
          <a href="https://finance-ai-gamma-ebon.vercel.app/" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/-OPEN_FINANCE_AI-%23343434?style=for-the-badge&logo=circle&logoColor=%2356b22e" 
-            alt="OPEN_FINANCE_AI" style="border-radius: 100px;">
+            alt="OPEN_FINANCE_AI" style="border-radius: 30px; !important;">
       </a><br>
       <span><b>Resumo:</b> Aplicação de plataforma SaaS para gestão financeira pessoal que utiliza inteligência artificial para auxiliar no controle financeiro. Criada com <b>React</b> e <b>Tailwind CSS</b>.</span>
 </div>
