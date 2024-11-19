@@ -14,9 +14,10 @@
 <br>
 <h3 align="left" style="font-family: 'Poppins', sans-serif;" >📫 Como me encontrar:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mdrehan18/" target="blank"><img align="center" src="https://img.shields.io/badge/Keuvyn%20Teixeira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
-<a href="mailto:rehan.md0107@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/keuvyntdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;       
-<a href="https://github.com/REHAN-18" target="blank"><img align="center" src="https://img.shields.io/badge/keuvyndev-100000?style=for-the-badge&logo=github&logoColor=white" /></a>   
+<a href="https://www.linkedin.com/in/keuvyntdev/" target="blank"><img align="center" src="https://img.shields.io/badge/Keuvyn%20Teixeira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
+<a href="mailto:keuvyntdev@gmail.com
+" target="blank"><img align="center" src="https://img.shields.io/badge/keuvyntdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;       
+<a href="https://github.com/keuvyndev" target="blank"><img align="center" src="https://img.shields.io/badge/keuvyndev-100000?style=for-the-badge&logo=github&logoColor=white" /></a>   
 </p>
 
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">&nbsp;👨🏻‍💻 Sobre Mim</h2>
