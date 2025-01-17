@@ -66,7 +66,7 @@
       <span><b>Resumo:</b> Inspirado no iFood, este aplicativo de entrega de comida oferece uma experiência intuitiva para explorar, selecionar e pedir refeições. Ele foi projetado para oferecer aos usuários uma plataforma atraente e fácil de navegar, tornando o pedido de comida prático e agradável. Criada com <b>React/Next.js</b> e <b>Tailwind CSS</b>.</span>
       <br><br>
          <a href="[https://smartcrypto-trade.vercel.app/" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/-SMART_CRYPTO_TRADE-%23343434?style=for-the-badge&logo=databricks&logoColor=E2.,ç1D4C" 
+            <img src="https://img.shields.io/badge/-SMART_CRYPTO_TRADE-%23343434?style=for-the-badge&logo=databricks&logoColor=E21D4C" 
             alt="SMART_CRYPTO_TRADE" style="border-radius: 30px; !important;">
       </a><br>
       <span><b>Resumo:</b> O Smart Crypto Trade é uma plataforma inteligente de negociação de criptomoedas que utiliza automação e análise de dados para otimizar operações de compra e venda. A solução integra algoritmos de monitoramento de mercado em tempo real, permitindo decisões estratégicas com base em tendências e indicadores, oferecendo praticidade e segurança para traders de diversos níveis. Criada com <b>React/Next.js</b> e <b>Tailwind CSS</b> e uso de <b>API Rest</b>.</span>
