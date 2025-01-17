@@ -46,26 +46,26 @@
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">🌐 &nbsp;<b>Projetos Mais Relevantes</b></h2>
 
 <div align="left">
-      <a href="https://barbershop-app-gamma.vercel.app/" target="_blank" style="text-decoration: none;">
+      <a href="https://barbershop-app-gamma.vercel.app/" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">
          <img src="https://img.shields.io/badge/-FSW_BARBER-%23343434?style=for-the-badge&logo=harbor&logoColor=%238061FF" 
               alt="FSW_BARBER" style="border-radius: 30px; !important;" />
       </a><br>
       <span ><b>Resumo:</b> Aplicativo web com interface para dispositivos móveis, voltado para o gerenciamento de barbearias. Inclui funcionalidades de agendamento de serviços e visualização de horários. Desenvolvido com <b>React/Next.js</b>, <b>Tailwind CSS</b> e <b>Prisma</b>.
       </span>
       <br><br>
-         <a href="https://finance-ai-gamma-ebon.vercel.app/" target="_blank" style="text-decoration: none;">
+         <a href="https://finance-ai-gamma-ebon.vercel.app/" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/-OPEN_FINANCE_AI-%23343434?style=for-the-badge&logo=VodaFone&logoColor=%2356b22e" 
             alt="OPEN_FINANCE_AI" style="border-radius: 30px; !important;">
       </a><br>
       <span><b>Resumo:</b> Aplicação de plataforma SaaS para gestão financeira pessoal que utiliza inteligência artificial para auxiliar no controle financeiro. Criada com <b>React/Next.js</b> e <b>Tailwind CSS</b>.</span>
       <br><br>
-         <a href="[https://fsw-foods-app-mobile.vercel.app/" target="_blank" style="text-decoration: none;">
+         <a href="https://fsw-foods-app-mobile.vercel.app/" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/-FSW_FOOD_APP-%23343434?style=for-the-badge&logo=ifood&logoColor=EA1D2C" 
             alt="FSW_FOOD_APP" style="border-radius: 30px; !important;">
       </a><br>
       <span><b>Resumo:</b> Inspirado no iFood, este aplicativo de entrega de comida oferece uma experiência intuitiva para explorar, selecionar e pedir refeições. Ele foi projetado para oferecer aos usuários uma plataforma atraente e fácil de navegar, tornando o pedido de comida prático e agradável. Criada com <b>React/Next.js</b> e <b>Tailwind CSS</b>.</span>
       <br><br>
-         <a href="[https://smartcrypto-trade.vercel.app/" target="_blank" style="text-decoration: none;">
+         <a href="https://smartcrypto-trade.vercel.app/" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/-SMART_CRYPTO_TRADE-%23343434?style=for-the-badge&logo=databricks&logoColor=E21D4C" 
             alt="SMART_CRYPTO_TRADE" style="border-radius: 30px; !important;">
       </a><br>
