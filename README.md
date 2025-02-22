@@ -33,15 +33,15 @@
 
 <h4 align="left" style="font-family: 'Poppins', sans-serif;">💻 &nbsp;Front-end:</h4>
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js) ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn) ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios) ![Saas](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js) ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn) ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios) ![Saas](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass) ![Styled-components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)
 
 <h4 align="left" style="font-family: 'Poppins', sans-serif;">⚙️ &nbsp;Back-end e banco de dados:</h4>
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL) ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=coffeescript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB) ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoosedotws) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL) ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=coffeescript)
 
 <h4 align="left" style="font-family: 'Poppins', sans-serif;">🧰 &nbsp;Ferramentas e serviços (que uso ou já usei):</h4>
 
-![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=etcd) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS) ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=GIT) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub) ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=ESLint) ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=Prettier) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker) ![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=Clerk) ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=Stripe) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel) ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku) ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=OpenAI)
+![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=etcd) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS) ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=GIT) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub) ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=ESLint) ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=Prettier) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker) ![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=Clerk) ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=Stripe) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel) ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku) ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render) ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=OpenAI) ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=Yarn)
 
 <h2 align="left" style="font-family: 'Poppins', sans-serif;">🌐 &nbsp;<b>Projetos Mais Relevantes</b></h2>
 
@@ -70,6 +70,18 @@
             alt="SMART_CRYPTO_TRADE" style="border-radius: 30px; !important;">
       </a><br>
       <span><b>Resumo:</b> O Smart Crypto Trade é uma plataforma inteligente de negociação de criptomoedas que utiliza automação e análise de dados para otimizar operações de compra e venda. A solução integra algoritmos de monitoramento de mercado em tempo real, permitindo decisões estratégicas com base em tendências e indicadores, oferecendo praticidade e segurança para traders de diversos níveis. Criada com <b>React/Next.js</b> e <b>Tailwind CSS</b> e uso de <b>API Rest</b>.</span>
+      <br><br>
+         <a href="https://fsc-ecommerce-frontend.onrender.com/" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/-ECOMMERCE_FSC_(PROJETO_EDUCACIONAL)-%23343434?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=#41BDF5" 
+            alt="SMART_CRYPTO_TRADE" style="border-radius: 30px; !important;">
+      </a><br>
+      <span><b>Resumo:</b> O E-Commerce FSC é uma aplicação de fins educativos. Foi desenvolvida para aprofundar ainda mais nos conceitos de <b>React</b> abrangendo <b>React Hooks, React Forms, Context API, Redux, API Rest, Styled-Components, Jest e muito mais</b>.</span>
+      <br><br>
+         <a href="https://teixeira-taskmanager-frontend-940d483f66dd.herokuapp.com/" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/-TASK_MANAGER_(PROJETO_EDUCACIONAL)-%23343434?style=for-the-badge&logo=googletasks&logoColor=#2684FC" 
+            alt="SMART_CRYPTO_TRADE" style="border-radius: 30px; !important;">
+      </a><br>
+      <span><b>Resumo:</b> O Gerenciador de Tarefas é uma aplicação de fins educativos. Foi desenvolvida para explorar os principais conceitos de React bem como sua comunicação com o back-end através API Rest. Criada com <b>React</b> e <b>Sass</b> e uso de <b>API Rest</b>.</span>
 </div>
 
 <div align="left">
