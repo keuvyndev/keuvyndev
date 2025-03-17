@@ -71,15 +71,21 @@
       </a><br>
       <span><b>Resumo:</b> O Smart Crypto Trade é uma plataforma inteligente de negociação de criptomoedas que utiliza automação e análise de dados para otimizar operações de compra e venda. A solução integra algoritmos de monitoramento de mercado em tempo real, permitindo decisões estratégicas com base em tendências e indicadores, oferecendo praticidade e segurança para traders de diversos níveis. Criada com <b>React/Next.js</b> e <b>Tailwind CSS</b> e uso de <b>API Rest</b>.</span>
       <br><br>
+               <a href="https://startatamus-typejokr.vercel.app/" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/-TYPE_JOKR_(PROJETO_DESAFIO)-%23343434?style=for-the-badge&logo=apostrophe&logoColor=ECD53F" 
+            alt="TYPE_JOKR" style="border-radius: 30px; !important;">
+      </a><br>
+      <span><b>Resumo:</b> Um projeto divertido onde cada dígito é uma piada do Chuck Norris. Criado com <b>Next.js</b> e <b>Tailwind CSS</b>.</span>
+      <br><br>
          <a href="https://fsc-ecommerce-frontend.onrender.com/" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/-ECOMMERCE_FSC_(PROJETO_EDUCACIONAL)-%23343434?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=#41BDF5" 
-            alt="SMART_CRYPTO_TRADE" style="border-radius: 30px; !important;">
+            alt="E_COMMERCE_FSC" style="border-radius: 30px; !important;">
       </a><br>
       <span><b>Resumo:</b> O E-Commerce FSC é uma aplicação de fins educativos. Foi desenvolvida para aprofundar ainda mais nos conceitos de <b>React</b> abrangendo <b>React Hooks, React Forms, Context API, Redux, API Rest, Styled-Components, Jest e muito mais</b>.</span>
       <br><br>
          <a href="https://teixeira-taskmanager-frontend-940d483f66dd.herokuapp.com/" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/-TASK_MANAGER_(PROJETO_EDUCACIONAL)-%23343434?style=for-the-badge&logo=googletasks&logoColor=#2684FC" 
-            alt="SMART_CRYPTO_TRADE" style="border-radius: 30px; !important;">
+            alt="TASK_MANAGER_FSC" style="border-radius: 30px; !important;">
       </a><br>
       <span><b>Resumo:</b> O Gerenciador de Tarefas é uma aplicação de fins educativos. Foi desenvolvida para explorar os principais conceitos de React bem como sua comunicação com o back-end através API Rest. Criada com <b>React</b> e <b>Sass</b> e uso de <b>API Rest</b>.</span>
 </div>
