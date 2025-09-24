@@ -84,12 +84,6 @@
             alt="E_COMMERCE_FSC" style="border-radius: 30px; !important;">
       </a><br>
       <span><b>Resumo:</b> O E-Commerce FSC é uma aplicação de fins educativos. Foi desenvolvida para aprofundar ainda mais nos conceitos de <b>React</b> abrangendo <b>React Hooks, React Forms, Context API, Redux, API Rest, Styled-Components, Jest e muito mais</b>.</span>
-      <br><br>
-         <a href="https://teixeira-taskmanager-frontend-940d483f66dd.herokuapp.com/" target="_blank" style="text-decoration: none;" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/-TASK_MANAGER_(PROJETO_EDUCACIONAL)-%23343434?style=for-the-badge&logo=googletasks&logoColor=#2684FC" 
-            alt="TASK_MANAGER_FSC" style="border-radius: 30px; !important;">
-      </a><br>
-      <span><b>Resumo:</b> O Gerenciador de Tarefas é uma aplicação de fins educativos. Foi desenvolvida para explorar os principais conceitos de React bem como sua comunicação com o back-end através API Rest. Criada com <b>React</b> e <b>Sass</b> e uso de <b>API Rest</b>.</span>
 </div>
 
 <div align="left">
