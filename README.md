@@ -71,7 +71,7 @@ I'm actively looking for **international remote opportunities** with product-foc
 
 > Real-time queue and attendance management system designed for hospitals and public services.
 
-<img src="./assets/fila-cidada-preview.png" alt="Fila Cidadã Preview" width="100%"/>
+<p align="center"><img src="./assets/fila-cidada-preview.png" alt="Fila Cidadã Preview" width="700"/></p>
 
 Built a multi-role workflow engine handling the full ticket lifecycle — from check-in to service completion — with real-time updates via Web Push notifications and QR code tracking.
 
@@ -85,7 +85,7 @@ Built a multi-role workflow engine handling the full ticket lifecycle — from c
 
 > E-commerce platform for personalized 3D products with dynamic customization and full checkout flow.
 
-<img src="./assets/forja3d-preview.png" alt="Forja3D Preview" width="100%"/>
+<p align="center"><img src="./assets/forja3d-preview.png" alt="Forja3D Preview" width="700"/></p>
 
 Designed the product customization architecture from scratch — supporting variant systems, dynamic rendering, pricing logic and an admin dashboard with full order management.
 
@@ -101,7 +101,7 @@ Designed the product customization architecture from scratch — supporting vari
 
 > AI-powered financial management platform with subscription plans and intelligent reporting.
 
-<img src="./assets/finance-ai-preview.png" alt="Finance AI Preview" width="100%"/>
+<p align="center"><img src="./assets/finance-ai-preview.png" alt="Finance AI Preview" width="700"/></p>
 
 Built a complete SaaS product with AI-generated financial insights (OpenAI), Stripe subscription gating, Clerk authentication and an analytics dashboard — covering the full monetization stack.
 
@@ -117,7 +117,7 @@ Built a complete SaaS product with AI-generated financial insights (OpenAI), Str
 
 > Cryptocurrency monitoring and arbitrage dashboard with guided onboarding and premium subscription flow.
 
-<img src="./assets/smart-crypto-preview.png" alt="Smart Crypto Trade Preview" width="100%"/>
+<p align="center"><img src="./assets/smart-crypto-preview.png" alt="Smart Crypto Trade Preview" width="700"/></p>
 
 Designed the full SaaS UX — from guided onboarding to premium plan upsell — with a real-time arbitrage dashboard and automation mode system.
 
@@ -133,7 +133,7 @@ Designed the full SaaS UX — from guided onboarding to premium plan upsell — 
 
 > Mobile-first food delivery platform with restaurant exploration, cart management and checkout flow.
 
-<img src="./assets/fsw-food-preview.png" alt="FSW Food Preview" width="100%"/>
+<p align="center"><img src="./assets/fsw-food-preview.png" alt="FSW Food Preview" width="320"/></p>
 
 `Next.js` `TypeScript` `PostgreSQL` `TailwindCSS`
 
@@ -145,7 +145,7 @@ Designed the full SaaS UX — from guided onboarding to premium plan upsell — 
 
 > Mobile-first appointment scheduling platform with Google authentication and calendar system.
 
-<img src="./assets/fsw-barber-preview.png" alt="FSW Barber Preview" width="100%"/>
+<p align="center"><img src="./assets/fsw-barber-preview.png" alt="FSW Barber Preview" width="320"/></p>
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `TailwindCSS`
 
@@ -157,7 +157,7 @@ Designed the full SaaS UX — from guided onboarding to premium plan upsell — 
 
 > Luxury landing page with smooth GSAP animations, scroll-driven storytelling and premium UI composition.
 
-<img src="./assets/studio-aura-preview.png" alt="Studio Aura Preview" width="100%"/>
+<p align="center"><img src="./assets/studio-aura-preview.png" alt="Studio Aura Preview" width="700"/></p>
 
 `HTML` `CSS` `JavaScript` `GSAP`
 
@@ -169,7 +169,7 @@ Designed the full SaaS UX — from guided onboarding to premium plan upsell — 
 
 > Entertainment-style cinematic landing page with animated hero, character showcase and trailer carousel.
 
-<img src="./assets/super-mario-preview.png" alt="Super Mario Galaxy Preview" width="100%"/>
+<p align="center"><img src="./assets/super-mario-preview.png" alt="Super Mario Galaxy Preview" width="700"/></p>
 
 `HTML` `CSS` `JavaScript` `GSAP` `ScrollTrigger`
 
