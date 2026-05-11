@@ -1,18 +1,16 @@
 <h1 align="center">Keuvyn Teixeira</h1>
 
 <p align="center">
-  Full Stack Developer focused on building real-world SaaS platforms, commerce systems and modern web products using React, Next.js and TypeScript.
+  Full Stack Developer · SaaS & AI-powered products · React · Next.js · TypeScript
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keuvyntdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Keuvyn%20Teixeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-keuvyntdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:keuvyntdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-keuvyntdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://github.com/keuvyndev">
     <img src="https://img.shields.io/badge/GitHub-keuvyndev-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -20,291 +18,166 @@
 
 ---
 
-# 👨🏻‍💻 About Me
+## About
 
-I'm a Full Stack Developer from Brazil focused on building scalable web applications, SaaS platforms and product-oriented digital experiences.
+I'm a Full Stack Developer from Brazil building real-world SaaS platforms, commerce systems and AI-powered web products.
 
-I specialize in creating:
+My focus is on **product engineering** — architecting complete digital products with well-defined workflows, solid backend logic, clean UIs and real business value. I care deeply about how systems behave in production, not just how they look in isolation.
 
-- SaaS platforms
-- E-commerce systems
-- Real-time applications
-- Mobile-first experiences
-- AI-powered solutions
-- Interactive landing pages
+Currently working as a **Mid-Level Developer and Team Leader** at Plano Consultoria Empresarial, leading internal automation systems, API integrations and SCRUM workflows for business-oriented solutions.
 
-Currently working as a **Mid-Level Developer and Team Leader** at Plano Consultoria Empresarial, building automation systems and internal business solutions.
+I'm actively looking for **international remote opportunities** with product-focused companies and modern SaaS teams.
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
-### Front-end
+**Frontend**
 
-![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat&logo=tailwindcss)
-![Redux](https://img.shields.io/badge/-Redux-0D1117?style=flat&logo=redux)
-![Styled Components](https://img.shields.io/badge/-StyledComponents-0D1117?style=flat&logo=styledcomponents)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat&logo=tailwindcss&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&logoColor=F7DF1E)
+![Redux](https://img.shields.io/badge/-Redux-0D1117?style=flat&logo=redux&logoColor=764ABC)
 
-### Back-end & Database
+**Backend & Database**
 
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)
-![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=flat&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-0D1117?style=flat&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js&logoColor=339933)
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=47A248)
+![Express](https://img.shields.io/badge/-Express-0D1117?style=flat&logo=express&logoColor=white)
 
-### Tools & Services
+**Auth, Payments & AI**
 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)
-![Clerk](https://img.shields.io/badge/-Clerk-0D1117?style=flat&logo=clerk)
-![Stripe](https://img.shields.io/badge/-Stripe-0D1117?style=flat&logo=stripe)
-![OpenAI](https://img.shields.io/badge/-OpenAI-0D1117?style=flat&logo=openai)
-![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=flat&logo=vercel)
+![Clerk](https://img.shields.io/badge/-Clerk-0D1117?style=flat&logo=clerk&logoColor=white)
+![NextAuth](https://img.shields.io/badge/-NextAuth-0D1117?style=flat&logo=next.js&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-0D1117?style=flat&logo=stripe&logoColor=635BFF)
+![OpenAI](https://img.shields.io/badge/-OpenAI-0D1117?style=flat&logo=openai&logoColor=white)
 
----
+**Infra & Tooling**
 
-# 🌟 Featured Projects
-
----
-
-# 🏥 Fila Cidadã
-
-Real-time queue and attendance management platform designed for hospitals and public service environments.
-
-### Stack
-
-Next.js • TypeScript • Prisma • PostgreSQL • TailwindCSS • Web Push • NextAuth
-
-### Features
-
-- Multi-step attendance flow
-- Real-time queue tracking
-- Web push notifications
-- QR code tracking
-- Multiple user roles
-- Estimated waiting time system
-- Smart ticket lifecycle
-
-### Highlights
-
-- Complex state transitions
-- Real-world business rules
-- Real-time UX concerns
-- Notification architecture
-- Scalable queue design
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=flat&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&logoColor=white)
 
 ---
 
-# 🛍 Forja3D
+## Featured Projects
 
-Customizable 3D products platform focused on personalized commerce experiences.
+### 🏥 Fila Cidadã — Queue Management Platform
 
-### Stack
+> Real-time queue and attendance management system designed for hospitals and public services.
 
-Next.js • TypeScript • Prisma • PostgreSQL • Mercado Pago • TailwindCSS
+Built a multi-role workflow engine handling the full ticket lifecycle — from check-in to service completion — with real-time updates via Web Push notifications and QR code tracking.
 
-### Features
+**Engineering highlights:** complex state machine for ticket transitions · multi-role access control · real-time notification architecture · scalable queue design · mobile-first UX
 
-- Dynamic product customization
-- Variant systems
-- Cart and checkout flow
-- Marketplace-style catalog
-- Admin dashboard
-- Product showcase system
-
-### Highlights
-
-- Product customization architecture
-- Dynamic rendering system
-- Real commerce workflows
-- Pricing logic
-- Product-oriented engineering
-
-🔗 Live Demo:  
-https://forja3d.vercel.app/
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `Web Push` `TailwindCSS`
 
 ---
 
-# 💸 Finance AI
+### 🛍 Forja3D — Customizable 3D Commerce Platform
 
-AI-powered personal finance SaaS platform.
+> E-commerce platform for personalized 3D products with dynamic customization and full checkout flow.
 
-### Stack
+Designed the product customization architecture from scratch — supporting variant systems, dynamic rendering, pricing logic and an admin dashboard with full order management.
 
-Next.js • TypeScript • Prisma • PostgreSQL • Clerk • Stripe • OpenAI • TailwindCSS
+**Engineering highlights:** dynamic product configuration engine · variant-based pricing system · marketplace-style catalog · admin dashboard · Mercado Pago integration
 
-### Features
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Mercado Pago` `TailwindCSS`
 
-- Financial dashboard
-- AI-generated reports
-- Subscription system
-- Authentication with Clerk
-- Charts and analytics
-- Responsive UI
-
-🔗 Live Demo:  
-https://finance-ai-gamma-ebon.vercel.app/
+🔗 [Live Demo](https://forja3d.vercel.app/)
 
 ---
 
-# 📈 Smart Crypto Trade
+### 💸 Finance AI — Personal Finance SaaS
 
-Cryptocurrency arbitrage and monitoring platform.
+> AI-powered financial management platform with subscription plans and intelligent reporting.
 
-### Stack
+Built a complete SaaS product with AI-generated financial insights (OpenAI), Stripe subscription gating, Clerk authentication and an analytics dashboard — covering the full monetization stack.
 
-Next.js • React • TypeScript • Clerk • TailwindCSS
+**Engineering highlights:** AI-generated reports via OpenAI · subscription plan gating · financial analytics dashboard · SaaS onboarding flow
 
-### Features
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Clerk` `Stripe` `OpenAI` `TailwindCSS`
 
-- Arbitrage dashboard
-- Real-time market monitoring
-- Premium subscription flow
-- Guided onboarding
-- Responsive UI
-- Automation mode system
-
-🔗 Live Demo:  
-https://smartcrypto-trade.vercel.app/
+🔗 [Live Demo](https://finance-ai-gamma-ebon.vercel.app/)
 
 ---
 
-# 🍔 FSW Food
+### 📈 Smart Crypto Trade — Crypto Arbitrage Platform
 
-Mobile-first food delivery web application inspired by modern delivery platforms.
+> Cryptocurrency monitoring and arbitrage dashboard with guided onboarding and premium subscription flow.
 
-### Stack
+Designed the full SaaS UX — from guided onboarding to premium plan upsell — with a real-time arbitrage dashboard and automation mode system.
 
-Next.js • React • TypeScript • PostgreSQL • TailwindCSS
+**Engineering highlights:** arbitrage opportunity dashboard · subscription UX flow · guided onboarding system · premium feature gating
 
-### Features
+`Next.js` `React` `TypeScript` `Clerk` `TailwindCSS`
 
-- Restaurant exploration
-- Product pages
-- Shopping cart
-- Checkout flow
-- Orders history
-- Responsive mobile-first experience
-
-🔗 Live Demo:  
-https://fsw-foods-app-mobile.vercel.app/
+🔗 [Live Demo](https://smartcrypto-trade.vercel.app/)
 
 ---
 
-# 💈 FSW Barber
+### 🍔 FSW Food — Food Delivery Web App
 
-Mobile-first barber booking platform.
+> Mobile-first food delivery platform with restaurant exploration, cart management and checkout flow.
 
-### Stack
+`Next.js` `TypeScript` `PostgreSQL` `TailwindCSS`
 
-Next.js • TypeScript • Prisma • PostgreSQL • NextAuth • TailwindCSS
-
-### Features
-
-- Authentication with Google
-- Appointment scheduling
-- Service management
-- Mobile-first UX
-- Booking flow system
-
-🔗 Live Demo:  
-https://barbershop-app-gamma.vercel.app/
+🔗 [Live Demo](https://fsw-foods-app-mobile.vercel.app/)
 
 ---
 
-# 🎨 Studio Aura
+### 💈 FSW Barber — Barber Booking Platform
 
-Professional premium landing page for an interior design studio.
+> Mobile-first appointment scheduling platform with Google authentication and calendar system.
 
-### Stack
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `TailwindCSS`
 
-HTML • CSS • JavaScript • GSAP • Scroll Animations
-
-### Features
-
-- Luxury-oriented design
-- Smooth animations
-- Responsive layout
-- Premium UI composition
-- Visual storytelling
-
-🔗 Live Demo:  
-https://keuvyndev.github.io/lp-aura-design/
+🔗 [Live Demo](https://barbershop-app-gamma.vercel.app/)
 
 ---
 
-# 🎬 Super Mario Galaxy
+### 🎨 Studio Aura — Premium Interior Design Landing Page
 
-Interactive cinematic landing page inspired by modern entertainment marketing websites.
+> Luxury landing page with smooth GSAP animations, scroll-driven storytelling and premium UI composition.
 
-### Stack
+`HTML` `CSS` `JavaScript` `GSAP`
 
-HTML • CSS • JavaScript • GSAP • ScrollTrigger
-
-### Features
-
-- Animated hero section
-- Character showcase
-- Trailer carousel
-- Interactive animations
-- Cinematic experience
-
-🔗 Live Demo:  
-https://keuvyndev.github.io/super-mario-galaxy/
+🔗 [Live Demo](https://keuvyndev.github.io/lp-aura-design/)
 
 ---
 
-# 🧠 What I Focus On
+### 🎬 Super Mario Galaxy — Cinematic Interactive Landing Page
 
-- Full Stack Web Development
-- SaaS Platforms
-- Product-Oriented Engineering
-- AI-Powered Applications
-- Real-Time Systems
-- Mobile-first Experiences
-- Modern UI/UX
-- Scalable Architectures
+> Entertainment-style cinematic landing page with animated hero, character showcase and trailer carousel.
+
+`HTML` `CSS` `JavaScript` `GSAP` `ScrollTrigger`
+
+🔗 [Live Demo](https://keuvyndev.github.io/super-mario-galaxy/)
 
 ---
 
-# 📚 Certifications & Learning
-
-- ReactPRO — Formação React & Next.js
-- Next.js Avançado
-- TypeScript
-- Docker
-- Node.js
-- MongoDB
-- PostgreSQL
-- SCRUM
-- AI & Prompt Engineering
-- EF SET English Certificate (B1 Intermediate)
-
----
-
-# 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=keuvyndev&show_icons=true&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=keuvyndev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keuvyndev&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🤝 Let's Connect
+## Let's Connect
+
+Open to **international remote opportunities** in Full Stack, SaaS or product engineering roles.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/keuvyntdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Keuvyn%20Teixeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:keuvyntdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-keuvyntdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
