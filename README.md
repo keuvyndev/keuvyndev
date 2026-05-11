@@ -71,6 +71,8 @@ I'm actively looking for **international remote opportunities** with product-foc
 
 > Real-time queue and attendance management system designed for hospitals and public services.
 
+<img src="./assets/fila-cidada-preview.png" alt="Fila Cidadã Preview" width="100%"/>
+
 Built a multi-role workflow engine handling the full ticket lifecycle — from check-in to service completion — with real-time updates via Web Push notifications and QR code tracking.
 
 **Engineering highlights:** complex state machine for ticket transitions · multi-role access control · real-time notification architecture · scalable queue design · mobile-first UX
@@ -82,6 +84,8 @@ Built a multi-role workflow engine handling the full ticket lifecycle — from c
 ### 🛍 Forja3D — Customizable 3D Commerce Platform
 
 > E-commerce platform for personalized 3D products with dynamic customization and full checkout flow.
+
+<img src="./assets/forja3d-preview.png" alt="Forja3D Preview" width="100%"/>
 
 Designed the product customization architecture from scratch — supporting variant systems, dynamic rendering, pricing logic and an admin dashboard with full order management.
 
@@ -97,6 +101,8 @@ Designed the product customization architecture from scratch — supporting vari
 
 > AI-powered financial management platform with subscription plans and intelligent reporting.
 
+<img src="./assets/finance-ai-preview.png" alt="Finance AI Preview" width="100%"/>
+
 Built a complete SaaS product with AI-generated financial insights (OpenAI), Stripe subscription gating, Clerk authentication and an analytics dashboard — covering the full monetization stack.
 
 **Engineering highlights:** AI-generated reports via OpenAI · subscription plan gating · financial analytics dashboard · SaaS onboarding flow
@@ -110,6 +116,8 @@ Built a complete SaaS product with AI-generated financial insights (OpenAI), Str
 ### 📈 Smart Crypto Trade — Crypto Arbitrage Platform
 
 > Cryptocurrency monitoring and arbitrage dashboard with guided onboarding and premium subscription flow.
+
+<img src="./assets/smart-crypto-preview.png" alt="Smart Crypto Trade Preview" width="100%"/>
 
 Designed the full SaaS UX — from guided onboarding to premium plan upsell — with a real-time arbitrage dashboard and automation mode system.
 
@@ -125,6 +133,8 @@ Designed the full SaaS UX — from guided onboarding to premium plan upsell — 
 
 > Mobile-first food delivery platform with restaurant exploration, cart management and checkout flow.
 
+<img src="./assets/fsw-food-preview.png" alt="FSW Food Preview" width="100%"/>
+
 `Next.js` `TypeScript` `PostgreSQL` `TailwindCSS`
 
 🔗 [Live Demo](https://fsw-foods-app-mobile.vercel.app/)
@@ -134,6 +144,8 @@ Designed the full SaaS UX — from guided onboarding to premium plan upsell — 
 ### 💈 FSW Barber — Barber Booking Platform
 
 > Mobile-first appointment scheduling platform with Google authentication and calendar system.
+
+<img src="./assets/fsw-barber-preview.png" alt="FSW Barber Preview" width="100%"/>
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `TailwindCSS`
 
@@ -145,6 +157,8 @@ Designed the full SaaS UX — from guided onboarding to premium plan upsell — 
 
 > Luxury landing page with smooth GSAP animations, scroll-driven storytelling and premium UI composition.
 
+<img src="./assets/studio-aura-preview.png" alt="Studio Aura Preview" width="100%"/>
+
 `HTML` `CSS` `JavaScript` `GSAP`
 
 🔗 [Live Demo](https://keuvyndev.github.io/lp-aura-design/)
@@ -154,6 +168,8 @@ Designed the full SaaS UX — from guided onboarding to premium plan upsell — 
 ### 🎬 Super Mario Galaxy — Cinematic Interactive Landing Page
 
 > Entertainment-style cinematic landing page with animated hero, character showcase and trailer carousel.
+
+<img src="./assets/super-mario-preview.png" alt="Super Mario Galaxy Preview" width="100%"/>
 
 `HTML` `CSS` `JavaScript` `GSAP` `ScrollTrigger`
 
