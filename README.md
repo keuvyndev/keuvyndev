@@ -169,7 +169,7 @@ Designed the full SaaS UX — from guided onboarding to premium plan upsell — 
 
 > Entertainment-style cinematic landing page with animated hero, character showcase and trailer carousel.
 
-<p align="center"><img src="./assets/super-mario-preview.png" alt="Super Mario Galaxy Preview" width="700"/></p>
+<p align="center"><img src="./assets/super-mario-galaxy-preview.png" alt="Super Mario Galaxy Preview" width="700"/></p>
 
 `HTML` `CSS` `JavaScript` `GSAP` `ScrollTrigger`
 
