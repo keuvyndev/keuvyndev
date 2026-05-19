@@ -1,18 +1,18 @@
 <h1 align="center">Keuvyn Teixeira</h1>
 
 <p align="center">
-  Full Stack Developer · SaaS & AI-powered products · React · Next.js · TypeScript
+  Full Stack Developer · SaaS & AI-powered products · Next.js · TypeScript · Node.js
 </p>
 
 <p align="center">
+  <a href="https://keuvyntdev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-keuvyntdev.vercel.app-10B981?style=for-the-badge&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/keuvyntdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-keuvyntdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:keuvyntdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-keuvyntdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/keuvyndev">
-    <img src="https://img.shields.io/badge/GitHub-keuvyndev-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -20,13 +20,15 @@
 
 ## About
 
-I'm a Full Stack Developer from Brazil building real-world SaaS platforms, commerce systems and AI-powered web products.
+I'm a Full Stack Developer from Brazil specializing in **SaaS platforms, AI-integrated tools and e-commerce systems** — built end-to-end, from database schema to deployed product.
 
-My focus is on **product engineering** — architecting complete digital products with well-defined workflows, solid backend logic, clean UIs and real business value. I care deeply about how systems behave in production, not just how they look in isolation.
+My focus is on **product engineering**: architecting complete digital products with solid backend logic, clean UIs and real business value. I care about how systems behave in production, not just how they look in isolation.
 
-Currently working as a **Mid-Level Developer and Team Leader** at Plano Consultoria Empresarial, leading internal automation systems, API integrations and SCRUM workflows for business-oriented solutions.
+Currently working as **Mid-Level Developer and Team Leader** at Plano Consultoria Empresarial (Jun 2022 – Present), leading internal automation systems, API integrations and SCRUM workflows. Simultaneously building products independently as a freelancer since 2023.
 
-I'm actively looking for **international remote opportunities** with product-focused companies and modern SaaS teams.
+Actively looking for **international remote opportunities** with product-focused SaaS teams and startups.
+
+> 📍 Brazil (UTC-3) · 4–6h overlap with US East · async-first · available now
 
 ---
 
@@ -55,6 +57,8 @@ I'm actively looking for **international remote opportunities** with product-foc
 ![NextAuth](https://img.shields.io/badge/-NextAuth-0D1117?style=flat&logo=next.js&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-0D1117?style=flat&logo=stripe&logoColor=635BFF)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-0D1117?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Anthropic-0D1117?style=flat&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-0D1117?style=flat&logo=vercel&logoColor=white)
 
 **Infra & Tooling**
 
@@ -83,15 +87,15 @@ Built a multi-role workflow engine handling the full ticket lifecycle — from c
 
 ### 🛍 Forja3D — Customizable 3D Commerce Platform
 
-> E-commerce platform for personalized 3D products with dynamic customization and full checkout flow.
+> Full e-commerce platform for personalized 3D products with dynamic customization, automated logistics and complete checkout flow.
 
 <p align="center"><img src="./assets/forja3d-preview.png" alt="Forja3D Preview" width="700"/></p>
 
-Designed the product customization architecture from scratch — supporting variant systems, dynamic rendering, pricing logic and an admin dashboard with full order management.
+Designed and built every layer from scratch — from database schema to checkout flow. Standout features include a **MakerWorld product importer** that auto-fills names, images and print dimensions from a URL; **automated freight calculation and shipping labels** via Melhor Envio + Correios; variant-based customization with file upload and dynamic pricing; **Mercado Pago Checkout Pro** with full order timeline tracking; and a complete admin dashboard covering products, coupons, role management, alert panels and store settings.
 
-**Engineering highlights:** dynamic product configuration engine · variant-based pricing system · marketplace-style catalog · admin dashboard · Mercado Pago integration
+**Engineering highlights:** MakerWorld API integration · automated shipping label generation · variant-based pricing engine · full order lifecycle tracking · admin dashboard from scratch
 
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Mercado Pago` `TailwindCSS`
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Mercado Pago` `Melhor Envio` `TailwindCSS`
 
 🔗 [Live Demo](https://forja3d.vercel.app/)
 
@@ -103,7 +107,7 @@ Designed the product customization architecture from scratch — supporting vari
 
 <p align="center"><img src="./assets/finance-ai-preview.png" alt="Finance AI Preview" width="700"/></p>
 
-Built a complete SaaS product with AI-generated financial insights (OpenAI), Stripe subscription gating, Clerk authentication and an analytics dashboard — covering the full monetization stack.
+Built a complete SaaS product with AI-generated financial insights (OpenAI), Stripe subscription gating, Clerk authentication and an analytics dashboard — covering the full monetization stack end-to-end.
 
 **Engineering highlights:** AI-generated reports via OpenAI · subscription plan gating · financial analytics dashboard · SaaS onboarding flow
 
@@ -188,9 +192,14 @@ Designed the full SaaS UX — from guided onboarding to premium plan upsell — 
 
 ## Let's Connect
 
-Open to **international remote opportunities** in Full Stack, SaaS or product engineering roles.
+Open to **international remote opportunities** in Full Stack, SaaS or product engineering roles. I work async-first and am set up for collaboration across timezones.
+
+**Languages:** Portuguese (native) · English (B1 — written async, technical docs, video calls)
 
 <p align="left">
+  <a href="https://keuvyntdev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-keuvyntdev.vercel.app-10B981?style=for-the-badge&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/keuvyntdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Keuvyn%20Teixeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
