@@ -39,8 +39,6 @@ Mid-level Full Stack Developer from Brazil with 3+ years of professional experie
 
 ### Forja3D — Customizable 3D Commerce Platform
 
-<p align="center"><img src="./assets/forja3d-preview.png" alt="Forja3D" width="700"/></p>
-
 Full e-commerce platform for personalized 3D products, built from scratch. Standout features: **MakerWorld importer** that auto-fills product data from a URL; **automated freight and shipping labels** via Melhor Envio + Correios; variant-based customization with file upload and dynamic pricing; **Mercado Pago Checkout Pro** with full order timeline; and a complete admin dashboard covering products, coupons, roles, alerts and store settings.
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Mercado Pago` `Melhor Envio` `Tailwind CSS`
@@ -49,8 +47,6 @@ Full e-commerce platform for personalized 3D products, built from scratch. Stand
 ---
 
 ### Finance AI — Personal Finance SaaS
-
-<p align="center"><img src="./assets/finance-ai-preview.png" alt="Finance AI" width="700"/></p>
 
 Complete SaaS with AI-generated financial reports (OpenAI GPT-4o-mini), Stripe subscription gating, Clerk auth and an analytics dashboard — covering the full monetization stack end-to-end. CI/CD via GitHub Actions.
 
@@ -61,8 +57,6 @@ Complete SaaS with AI-generated financial reports (OpenAI GPT-4o-mini), Stripe s
 
 ### Fila Cidadã — Queue Management Platform
 
-<p align="center"><img src="./assets/fila-cidada-preview.png" alt="Fila Cidadã" width="700"/></p>
-
 Real-time queue system for hospitals and public services. Built a multi-role workflow engine managing the full ticket lifecycle — check-in to service completion — with Web Push notifications and QR code tracking.
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `Web Push API` `Tailwind CSS`
@@ -70,8 +64,6 @@ Real-time queue system for hospitals and public services. Built a multi-role wor
 ---
 
 ### Smart Crypto Trade — Arbitrage Dashboard
-
-<p align="center"><img src="./assets/smart-crypto-preview.png" alt="Smart Crypto Trade" width="700"/></p>
 
 SaaS with spot-perpetual arbitrage scanner across Gate.io, KuCoin, BitGet and MEXC. Real-time top-100 opportunities dashboard, capital simulator, position monitoring and premium subscription gating.
 
