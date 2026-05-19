@@ -5,17 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://keuvyntdev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-keuvyntdev.vercel.app-10B981?style=for-the-badge&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/keuvyntdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-keuvyntdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:keuvyntdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-keuvyntdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://keuvyntdev.vercel.app" target="_blank">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/keuvyntdev/" target="_blank">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:keuvyntdev@gmail.com">keuvyntdev@gmail.com</a>
 </p>
 
 <p align="center">
