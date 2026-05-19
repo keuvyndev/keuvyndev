@@ -43,7 +43,7 @@ Mid-level Full Stack Developer from Brazil with 3+ years of professional experie
 
 Full e-commerce platform for personalized 3D products, built from scratch. Standout features: **MakerWorld importer** that auto-fills product data from a URL; **automated freight and shipping labels** via Melhor Envio + Correios; variant-based customization with file upload and dynamic pricing; **Mercado Pago Checkout Pro** with full order timeline; and a complete admin dashboard covering products, coupons, roles, alerts and store settings.
 
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Mercado Pago` `Melhor Envio` `TailwindCSS`
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Mercado Pago` `Melhor Envio` `Tailwind CSS`
 &nbsp;·&nbsp; [Live Demo →](https://forja3d.vercel.app/)
 
 ---
@@ -52,9 +52,9 @@ Full e-commerce platform for personalized 3D products, built from scratch. Stand
 
 <p align="center"><img src="./assets/finance-ai-preview.png" alt="Finance AI" width="700"/></p>
 
-Complete SaaS with AI-generated financial reports (OpenAI), Stripe subscription gating, Clerk auth and an analytics dashboard — covering the full monetization stack end-to-end.
+Complete SaaS with AI-generated financial reports (OpenAI GPT-4o-mini), Stripe subscription gating, Clerk auth and an analytics dashboard — covering the full monetization stack end-to-end. CI/CD via GitHub Actions.
 
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Clerk` `Stripe` `OpenAI` `TailwindCSS`
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Clerk` `Stripe` `OpenAI` `GitHub Actions` `Tailwind CSS`
 &nbsp;·&nbsp; [Live Demo →](https://finance-ai-gamma-ebon.vercel.app/)
 
 ---
@@ -65,7 +65,7 @@ Complete SaaS with AI-generated financial reports (OpenAI), Stripe subscription 
 
 Real-time queue system for hospitals and public services. Built a multi-role workflow engine managing the full ticket lifecycle — check-in to service completion — with Web Push notifications and QR code tracking.
 
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `Web Push` `TailwindCSS`
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `Web Push API` `Tailwind CSS`
 
 ---
 
@@ -73,9 +73,9 @@ Real-time queue system for hospitals and public services. Built a multi-role wor
 
 <p align="center"><img src="./assets/smart-crypto-preview.png" alt="Smart Crypto Trade" width="700"/></p>
 
-SaaS with real-time arbitrage monitoring, guided onboarding, premium plan gating and an automation mode system.
+SaaS with spot-perpetual arbitrage scanner across Gate.io, KuCoin, BitGet and MEXC. Real-time top-100 opportunities dashboard, capital simulator, position monitoring and premium subscription gating.
 
-`Next.js` `TypeScript` `Clerk` `TailwindCSS`
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Clerk` `Stripe` `GitHub Actions` `Tailwind CSS`
 &nbsp;·&nbsp; [Live Demo →](https://smartcrypto-trade.vercel.app/)
 
 ---
@@ -84,10 +84,12 @@ SaaS with real-time arbitrage monitoring, guided onboarding, premium plan gating
 
 | Project | Description | Stack | Demo |
 |---------|-------------|-------|------|
-| **FSW Food** | Mobile-first food delivery app | Next.js · TypeScript · PostgreSQL | [↗](https://fsw-foods-app-mobile.vercel.app/) |
+| **Stockly** | Desktop inventory & sales management SaaS | Next.js · Prisma · PostgreSQL · AWS | [↗](https://stockly-ten.vercel.app) |
+| **FSW Food** | Mobile-first food delivery app | Next.js · TypeScript · Prisma · PostgreSQL | [↗](https://fsw-foods-app-mobile.vercel.app/) |
 | **FSW Barber** | Barber booking with Google auth | Next.js · Prisma · NextAuth | [↗](https://barbershop-app-gamma.vercel.app/) |
-| **FSC E-commerce** | E-commerce study project — Redux, Firebase, Stripe | React · Redux · Firebase | [↗](https://fsc-ecommerce-frontend.onrender.com) |
-| **Studio Aura** | Premium interior design landing page | HTML · CSS · GSAP | [↗](https://keuvyndev.github.io/lp-aura-design/) |
+| **FSC E-commerce** | Decoupled store — REST API + full test coverage | React · Node.js · Express · PostgreSQL · Jest · Playwright | [↗](https://fsc-ecommerce-frontend.onrender.com) |
+| **Type Joke** | Chuck Norris jokes on every keystroke | Next.js · TypeScript · Tailwind CSS | [↗](https://startatamus-typejokr.vercel.app/) |
+| **Studio Aura** | Premium interior design landing page | HTML · CSS · GSAP · ScrollTrigger | [↗](https://keuvyndev.github.io/lp-aura-design/) |
 | **Super Mario Galaxy** | Cinematic interactive landing page | HTML · GSAP · ScrollTrigger | [↗](https://keuvyndev.github.io/super-mario-galaxy/) |
 
 ---
@@ -98,19 +100,34 @@ SaaS with real-time arbitrage monitoring, guided onboarding, premium plan gating
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,redux&theme=dark" alt="Frontend"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,docker&theme=dark" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,docker&theme=dark" alt="Backend"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,git,github&theme=dark" alt="Infra"/>
+  <img src="https://skillicons.dev/icons?i=vercel,git,github,aws&theme=dark" alt="Infra"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Fastify-0D1117?style=flat&logo=fastify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Styled%20Components-0D1117?style=flat&logo=styled-components&logoColor=DB7093"/>
+  <img src="https://img.shields.io/badge/-GSAP-0D1117?style=flat&logo=greensock&logoColor=88CE02"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-0D1117?style=flat&logo=githubactions&logoColor=2088FF"/>
+  <img src="https://img.shields.io/badge/-Render-0D1117?style=flat&logo=render&logoColor=white"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Clerk-0D1117?style=flat&logo=clerk&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NextAuth-0D1117?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Stripe-0D1117?style=flat&logo=stripe&logoColor=635BFF"/>
+  <img src="https://img.shields.io/badge/-Mercado%20Pago-0D1117?style=flat&logo=mercadopago&logoColor=009EE3"/>
   <img src="https://img.shields.io/badge/-OpenAI-0D1117?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Anthropic-0D1117?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Claude%20%2F%20MCP-0D1117?style=flat&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Vercel%20AI%20SDK-0D1117?style=flat&logo=vercel&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Jest-0D1117?style=flat&logo=jest&logoColor=C21325"/>
+  <img src="https://img.shields.io/badge/-React%20Testing%20Library-0D1117?style=flat&logo=testinglibrary&logoColor=E33332"/>
+  <img src="https://img.shields.io/badge/-Playwright-0D1117?style=flat&logo=playwright&logoColor=2EAD33"/>
 </p>
 
 ---
